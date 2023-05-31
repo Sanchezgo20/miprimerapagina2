@@ -77,6 +77,11 @@ p {font-family: Georgia, serif; font-size: 18px; padding: 10px; margin: 20px;}
     min-height: 200px;
     text-align: center;
   }
+
+  .greeting {
+    text-align: center;
+  }
+
   @media (max-width: 768px) {
     .column {
       flex: 100%;
